@@ -5,6 +5,8 @@
 // @description  try to take over the world!
 // @author       chenfeibo
 // @match        https://www.merriam-webster.com/*
+// @downloadURL  https://raw.githubusercontent.com/chenfeibo/public-TampermonkeyScripts/refs/heads/main/Merriam-WebsterSearchShortcut.js
+// @updateURL    https://raw.githubusercontent.com/chenfeibo/public-TampermonkeyScripts/refs/heads/main/Merriam-WebsterSearchShortcut.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=merriam-webster.com
 // @grant        none
 // ==/UserScript==
